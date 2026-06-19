@@ -1,0 +1,1001 @@
+Date,Product_Name,Category,Quantity_Sold,Price,Revenue,Region,Customer_Type
+10/19/2025,Ibuprofen,Pain Relief,217,8,1736,East,Hospital
+8/21/2025,Amoxicillin,Antibiotic,176,20,3520,North,Retail
+5/11/2025,Amoxicillin,Antibiotic,227,20,4540,East,Clinic
+12/22/2025,Azithromycin,Antibiotic,129,25,3225,North,Retail
+4/18/2025,Omeprazole,Gastro,19,12,228,North,Hospital
+5/25/2025,Omeprazole,Gastro,83,12,996,South,Clinic
+5/14/2025,Azithromycin,Antibiotic,225,25,5625,South,Hospital
+9/1/2025,Azithromycin,Antibiotic,188,25,4700,East,Retail
+1/20/2025,Cetirizine,Allergy,143,6,858,West,Hospital
+1/4/2025,Omeprazole,Gastro,63,12,756,West,Hospital
+8/2/2025,Metformin,Diabetes,234,15,3510,East,Clinic
+8/7/2025,Paracetamol,Tablet,212,5,1060,South,Clinic
+12/23/2025,Metformin,Diabetes,12,15,180,West,Hospital
+3/24/2025,Amoxicillin,Antibiotic,63,20,1260,South,Clinic
+3/2/2025,Metformin,Diabetes,124,15,1860,South,Retail
+5/8/2025,Cetirizine,Allergy,114,6,684,South,Retail
+11/1/2025,Ibuprofen,Pain Relief,115,8,920,West,Clinic
+3/18/2025,Cetirizine,Allergy,234,6,1404,East,Hospital
+3/11/2025,Insulin,Diabetes,96,50,4800,South,Clinic
+8/12/2025,Paracetamol,Tablet,101,5,505,North,Hospital
+10/10/2025,Ibuprofen,Pain Relief,106,8,848,North,Retail
+5/8/2025,Vitamin C,Supplement,156,10,1560,South,Hospital
+10/28/2025,Cetirizine,Allergy,164,6,984,East,Retail
+9/14/2025,Paracetamol,Tablet,160,5,800,North,Clinic
+6/20/2025,Omeprazole,Gastro,59,12,708,North,Clinic
+4/8/2025,Ibuprofen,Pain Relief,137,8,1096,North,Hospital
+5/5/2025,Insulin,Diabetes,130,50,6500,North,Clinic
+5/6/2025,Ibuprofen,Pain Relief,224,8,1792,East,Retail
+12/15/2025,Ibuprofen,Pain Relief,155,8,1240,East,Hospital
+2/26/2025,Cetirizine,Allergy,198,6,1188,West,Retail
+2/11/2025,Vitamin C,Supplement,73,10,730,South,Retail
+4/26/2025,Cetirizine,Allergy,125,6,750,West,Clinic
+8/16/2025,Ibuprofen,Pain Relief,104,8,832,North,Hospital
+1/9/2025,Ibuprofen,Pain Relief,242,8,1936,East,Hospital
+12/10/2025,Amoxicillin,Antibiotic,76,20,1520,West,Clinic
+3/3/2025,Insulin,Diabetes,230,50,11500,East,Retail
+10/28/2025,Azithromycin,Antibiotic,200,25,5000,West,Clinic
+11/19/2025,Cetirizine,Allergy,62,6,372,North,Retail
+12/3/2025,Omeprazole,Gastro,237,12,2844,West,Clinic
+5/24/2025,Ibuprofen,Pain Relief,192,8,1536,West,Retail
+1/28/2025,Insulin,Diabetes,237,50,11850,North,Hospital
+7/2/2025,Omeprazole,Gastro,21,12,252,East,Retail
+6/12/2025,Amoxicillin,Antibiotic,247,20,4940,East,Hospital
+6/7/2025,Omeprazole,Gastro,115,12,1380,West,Clinic
+1/31/2025,Cetirizine,Allergy,248,6,1488,North,Clinic
+2/13/2025,Paracetamol,Tablet,41,5,205,West,Clinic
+4/17/2025,Ibuprofen,Pain Relief,247,8,1976,South,Clinic
+5/31/2025,Ibuprofen,Pain Relief,80,8,640,West,Clinic
+8/6/2025,Azithromycin,Antibiotic,30,25,750,West,Retail
+4/18/2025,Ibuprofen,Pain Relief,67,8,536,West,Hospital
+5/27/2025,Azithromycin,Antibiotic,101,25,2525,North,Clinic
+3/18/2025,Ibuprofen,Pain Relief,242,8,1936,East,Retail
+6/2/2025,Metformin,Diabetes,158,15,2370,East,Retail
+10/2/2025,Ibuprofen,Pain Relief,140,8,1120,North,Hospital
+5/4/2025,Metformin,Diabetes,64,15,960,South,Hospital
+8/28/2025,Aspirin,Tablet,90,7,630,North,Retail
+1/23/2025,Ibuprofen,Pain Relief,95,8,760,West,Retail
+11/27/2025,Omeprazole,Gastro,45,12,540,North,Hospital
+8/4/2025,Vitamin C,Supplement,168,10,1680,East,Hospital
+8/29/2025,Omeprazole,Gastro,86,12,1032,East,Retail
+11/3/2025,Omeprazole,Gastro,248,12,2976,East,Retail
+5/5/2025,Vitamin C,Supplement,175,10,1750,North,Retail
+9/12/2025,Azithromycin,Antibiotic,248,25,6200,South,Retail
+1/28/2025,Azithromycin,Antibiotic,83,25,2075,North,Retail
+6/14/2025,Vitamin C,Supplement,177,10,1770,East,Hospital
+9/17/2025,Ibuprofen,Pain Relief,74,8,592,East,Clinic
+6/4/2025,Aspirin,Tablet,131,7,917,West,Clinic
+1/13/2025,Azithromycin,Antibiotic,243,25,6075,West,Clinic
+11/17/2025,Insulin,Diabetes,222,50,11100,West,Hospital
+7/7/2025,Vitamin C,Supplement,210,10,2100,West,Clinic
+9/13/2025,Amoxicillin,Antibiotic,44,20,880,North,Clinic
+12/14/2025,Omeprazole,Gastro,214,12,2568,East,Clinic
+2/11/2025,Azithromycin,Antibiotic,172,25,4300,North,Clinic
+11/6/2025,Paracetamol,Tablet,163,5,815,North,Retail
+4/10/2025,Amoxicillin,Antibiotic,84,20,1680,South,Hospital
+2/14/2025,Insulin,Diabetes,113,50,5650,North,Hospital
+2/18/2025,Aspirin,Tablet,172,7,1204,West,Retail
+10/12/2025,Azithromycin,Antibiotic,152,25,3800,East,Hospital
+10/14/2025,Paracetamol,Tablet,223,5,1115,North,Retail
+6/20/2025,Omeprazole,Gastro,97,12,1164,West,Hospital
+2/5/2025,Paracetamol,Tablet,235,5,1175,South,Hospital
+8/20/2025,Metformin,Diabetes,84,15,1260,North,Hospital
+7/21/2025,Metformin,Diabetes,165,15,2475,North,Hospital
+4/26/2025,Aspirin,Tablet,232,7,1624,West,Clinic
+4/7/2025,Ibuprofen,Pain Relief,35,8,280,North,Hospital
+4/14/2025,Omeprazole,Gastro,155,12,1860,South,Clinic
+10/7/2025,Cetirizine,Allergy,56,6,336,West,Retail
+7/30/2025,Azithromycin,Antibiotic,179,25,4475,West,Retail
+6/19/2025,Omeprazole,Gastro,192,12,2304,West,Retail
+9/8/2025,Ibuprofen,Pain Relief,20,8,160,South,Clinic
+5/18/2025,Aspirin,Tablet,124,7,868,South,Hospital
+7/11/2025,Paracetamol,Tablet,214,5,1070,West,Hospital
+9/25/2025,Omeprazole,Gastro,76,12,912,West,Hospital
+2/6/2025,Cetirizine,Allergy,82,6,492,North,Clinic
+9/2/2025,Aspirin,Tablet,111,7,777,North,Hospital
+12/3/2025,Insulin,Diabetes,194,50,9700,North,Clinic
+8/19/2025,Azithromycin,Antibiotic,41,25,1025,West,Clinic
+6/19/2025,Ibuprofen,Pain Relief,224,8,1792,North,Retail
+11/12/2025,Vitamin C,Supplement,120,10,1200,East,Hospital
+12/16/2025,Aspirin,Tablet,164,7,1148,West,Retail
+7/3/2025,Ibuprofen,Pain Relief,119,8,952,East,Hospital
+8/22/2025,Vitamin C,Supplement,178,10,1780,North,Retail
+11/22/2025,Omeprazole,Gastro,224,12,2688,North,Clinic
+12/4/2025,Aspirin,Tablet,113,7,791,South,Clinic
+4/7/2025,Metformin,Diabetes,107,15,1605,West,Clinic
+8/28/2025,Azithromycin,Antibiotic,246,25,6150,West,Clinic
+4/12/2025,Metformin,Diabetes,97,15,1455,West,Clinic
+5/14/2025,Omeprazole,Gastro,204,12,2448,North,Hospital
+12/23/2025,Azithromycin,Antibiotic,76,25,1900,North,Retail
+1/13/2025,Aspirin,Tablet,49,7,343,South,Clinic
+10/20/2025,Paracetamol,Tablet,105,5,525,West,Hospital
+10/27/2025,Omeprazole,Gastro,73,12,876,North,Retail
+11/29/2025,Ibuprofen,Pain Relief,102,8,816,West,Hospital
+5/24/2025,Azithromycin,Antibiotic,62,25,1550,East,Hospital
+9/11/2025,Aspirin,Tablet,57,7,399,West,Hospital
+6/30/2025,Insulin,Diabetes,120,50,6000,East,Clinic
+7/4/2025,Insulin,Diabetes,138,50,6900,North,Clinic
+6/12/2025,Insulin,Diabetes,187,50,9350,South,Clinic
+10/25/2025,Paracetamol,Tablet,55,5,275,South,Retail
+10/24/2025,Vitamin C,Supplement,237,10,2370,East,Retail
+7/3/2025,Aspirin,Tablet,201,7,1407,South,Hospital
+1/23/2025,Omeprazole,Gastro,84,12,1008,South,Hospital
+4/17/2025,Omeprazole,Gastro,182,12,2184,West,Retail
+11/6/2025,Paracetamol,Tablet,229,5,1145,West,Retail
+12/3/2025,Cetirizine,Allergy,196,6,1176,North,Hospital
+12/24/2025,Amoxicillin,Antibiotic,195,20,3900,West,Retail
+12/9/2025,Cetirizine,Allergy,48,6,288,West,Retail
+4/28/2025,Azithromycin,Antibiotic,11,25,275,South,Clinic
+5/18/2025,Cetirizine,Allergy,124,6,744,South,Hospital
+4/21/2025,Ibuprofen,Pain Relief,70,8,560,West,Clinic
+5/23/2025,Amoxicillin,Antibiotic,90,20,1800,North,Hospital
+4/6/2025,Metformin,Diabetes,73,15,1095,South,Clinic
+2/4/2025,Amoxicillin,Antibiotic,52,20,1040,North,Hospital
+2/28/2025,Vitamin C,Supplement,181,10,1810,East,Retail
+8/19/2025,Ibuprofen,Pain Relief,86,8,688,West,Retail
+7/7/2025,Aspirin,Tablet,157,7,1099,South,Clinic
+3/5/2025,Cetirizine,Allergy,203,6,1218,East,Hospital
+8/21/2025,Vitamin C,Supplement,99,10,990,West,Retail
+8/30/2025,Aspirin,Tablet,13,7,91,South,Clinic
+1/14/2025,Paracetamol,Tablet,130,5,650,West,Retail
+7/13/2025,Vitamin C,Supplement,92,10,920,West,Retail
+2/14/2025,Azithromycin,Antibiotic,124,25,3100,North,Clinic
+10/6/2025,Aspirin,Tablet,16,7,112,South,Hospital
+10/10/2025,Amoxicillin,Antibiotic,12,20,240,East,Hospital
+2/22/2025,Paracetamol,Tablet,42,5,210,West,Hospital
+5/25/2025,Aspirin,Tablet,42,7,294,South,Clinic
+8/14/2025,Amoxicillin,Antibiotic,220,20,4400,North,Retail
+8/24/2025,Aspirin,Tablet,215,7,1505,West,Hospital
+1/18/2025,Aspirin,Tablet,44,7,308,North,Hospital
+8/13/2025,Metformin,Diabetes,174,15,2610,West,Retail
+7/12/2025,Paracetamol,Tablet,146,5,730,North,Clinic
+3/1/2025,Ibuprofen,Pain Relief,166,8,1328,South,Retail
+3/30/2025,Vitamin C,Supplement,244,10,2440,West,Hospital
+6/17/2025,Vitamin C,Supplement,50,10,500,North,Hospital
+10/22/2025,Insulin,Diabetes,40,50,2000,West,Clinic
+5/26/2025,Azithromycin,Antibiotic,172,25,4300,North,Clinic
+1/17/2025,Azithromycin,Antibiotic,105,25,2625,West,Retail
+1/6/2025,Omeprazole,Gastro,66,12,792,South,Hospital
+9/23/2025,Aspirin,Tablet,146,7,1022,East,Retail
+3/14/2025,Omeprazole,Gastro,238,12,2856,North,Retail
+3/27/2025,Cetirizine,Allergy,122,6,732,West,Clinic
+3/21/2025,Vitamin C,Supplement,28,10,280,North,Hospital
+5/1/2025,Vitamin C,Supplement,207,10,2070,East,Clinic
+6/30/2025,Aspirin,Tablet,224,7,1568,West,Hospital
+7/25/2025,Aspirin,Tablet,210,7,1470,South,Retail
+3/30/2025,Vitamin C,Supplement,181,10,1810,West,Hospital
+8/13/2025,Metformin,Diabetes,141,15,2115,North,Clinic
+9/21/2025,Vitamin C,Supplement,134,10,1340,West,Clinic
+4/30/2025,Azithromycin,Antibiotic,18,25,450,North,Retail
+2/20/2025,Metformin,Diabetes,14,15,210,South,Clinic
+12/23/2025,Metformin,Diabetes,217,15,3255,South,Clinic
+1/6/2025,Vitamin C,Supplement,220,10,2200,South,Hospital
+12/26/2025,Insulin,Diabetes,97,50,4850,West,Clinic
+7/1/2025,Metformin,Diabetes,99,15,1485,East,Clinic
+12/25/2025,Aspirin,Tablet,89,7,623,West,Retail
+1/25/2025,Paracetamol,Tablet,226,5,1130,North,Clinic
+7/12/2025,Aspirin,Tablet,132,7,924,North,Clinic
+10/15/2025,Azithromycin,Antibiotic,196,25,4900,South,Clinic
+8/11/2025,Ibuprofen,Pain Relief,95,8,760,North,Hospital
+8/12/2025,Azithromycin,Antibiotic,137,25,3425,South,Retail
+2/12/2025,Metformin,Diabetes,222,15,3330,South,Hospital
+5/10/2025,Cetirizine,Allergy,152,6,912,East,Retail
+5/22/2025,Aspirin,Tablet,30,7,210,West,Clinic
+12/10/2025,Paracetamol,Tablet,220,5,1100,South,Hospital
+6/22/2025,Omeprazole,Gastro,128,12,1536,East,Clinic
+9/13/2025,Metformin,Diabetes,129,15,1935,North,Clinic
+6/14/2025,Paracetamol,Tablet,77,5,385,East,Clinic
+10/2/2025,Azithromycin,Antibiotic,234,25,5850,North,Hospital
+12/3/2025,Aspirin,Tablet,26,7,182,East,Clinic
+1/5/2025,Amoxicillin,Antibiotic,21,20,420,West,Retail
+2/21/2025,Paracetamol,Tablet,22,5,110,North,Clinic
+1/26/2025,Cetirizine,Allergy,100,6,600,South,Hospital
+12/6/2025,Amoxicillin,Antibiotic,22,20,440,North,Retail
+8/25/2025,Azithromycin,Antibiotic,220,25,5500,North,Retail
+9/2/2025,Metformin,Diabetes,38,15,570,West,Clinic
+12/23/2025,Cetirizine,Allergy,203,6,1218,South,Retail
+6/18/2025,Azithromycin,Antibiotic,194,25,4850,North,Retail
+12/6/2025,Amoxicillin,Antibiotic,170,20,3400,North,Retail
+7/13/2025,Metformin,Diabetes,46,15,690,West,Retail
+9/30/2025,Ibuprofen,Pain Relief,177,8,1416,West,Clinic
+12/17/2025,Omeprazole,Gastro,140,12,1680,East,Hospital
+4/3/2025,Insulin,Diabetes,212,50,10600,South,Hospital
+10/27/2025,Amoxicillin,Antibiotic,137,20,2740,North,Clinic
+12/3/2025,Omeprazole,Gastro,246,12,2952,East,Retail
+6/14/2025,Insulin,Diabetes,154,50,7700,East,Clinic
+12/11/2025,Insulin,Diabetes,45,50,2250,West,Clinic
+10/29/2025,Omeprazole,Gastro,19,12,228,West,Hospital
+7/21/2025,Vitamin C,Supplement,28,10,280,East,Clinic
+4/3/2025,Ibuprofen,Pain Relief,236,8,1888,South,Retail
+7/27/2025,Paracetamol,Tablet,226,5,1130,North,Retail
+6/30/2025,Azithromycin,Antibiotic,208,25,5200,South,Clinic
+6/27/2025,Amoxicillin,Antibiotic,51,20,1020,North,Retail
+7/29/2025,Ibuprofen,Pain Relief,176,8,1408,East,Hospital
+6/26/2025,Cetirizine,Allergy,189,6,1134,South,Clinic
+9/17/2025,Amoxicillin,Antibiotic,238,20,4760,East,Retail
+10/26/2025,Vitamin C,Supplement,133,10,1330,North,Clinic
+6/24/2025,Aspirin,Tablet,229,7,1603,South,Hospital
+7/22/2025,Ibuprofen,Pain Relief,247,8,1976,South,Clinic
+5/1/2025,Ibuprofen,Pain Relief,76,8,608,East,Retail
+3/21/2025,Metformin,Diabetes,173,15,2595,South,Hospital
+1/9/2025,Metformin,Diabetes,125,15,1875,South,Hospital
+11/5/2025,Vitamin C,Supplement,44,10,440,South,Retail
+5/31/2025,Omeprazole,Gastro,243,12,2916,North,Retail
+7/13/2025,Aspirin,Tablet,112,7,784,North,Retail
+11/2/2025,Insulin,Diabetes,32,50,1600,East,Clinic
+10/15/2025,Aspirin,Tablet,119,7,833,West,Retail
+2/9/2025,Ibuprofen,Pain Relief,245,8,1960,South,Retail
+6/9/2025,Vitamin C,Supplement,153,10,1530,South,Hospital
+1/24/2025,Azithromycin,Antibiotic,44,25,1100,South,Clinic
+12/5/2025,Azithromycin,Antibiotic,183,25,4575,South,Hospital
+11/12/2025,Paracetamol,Tablet,15,5,75,East,Retail
+5/2/2025,Omeprazole,Gastro,39,12,468,East,Clinic
+9/1/2025,Omeprazole,Gastro,51,12,612,West,Retail
+8/15/2025,Ibuprofen,Pain Relief,105,8,840,North,Hospital
+5/3/2025,Paracetamol,Tablet,125,5,625,North,Hospital
+5/16/2025,Metformin,Diabetes,188,15,2820,South,Retail
+4/3/2025,Aspirin,Tablet,63,7,441,East,Hospital
+12/15/2025,Omeprazole,Gastro,249,12,2988,South,Retail
+9/23/2025,Paracetamol,Tablet,223,5,1115,East,Clinic
+9/19/2025,Aspirin,Tablet,225,7,1575,West,Clinic
+8/23/2025,Amoxicillin,Antibiotic,108,20,2160,South,Clinic
+11/7/2025,Metformin,Diabetes,107,15,1605,South,Hospital
+6/18/2025,Ibuprofen,Pain Relief,235,8,1880,South,Clinic
+8/14/2025,Amoxicillin,Antibiotic,247,20,4940,West,Retail
+11/24/2025,Amoxicillin,Antibiotic,163,20,3260,South,Clinic
+5/1/2025,Insulin,Diabetes,186,50,9300,West,Hospital
+9/3/2025,Paracetamol,Tablet,77,5,385,North,Clinic
+2/4/2025,Ibuprofen,Pain Relief,156,8,1248,South,Clinic
+8/25/2025,Vitamin C,Supplement,222,10,2220,East,Clinic
+8/29/2025,Vitamin C,Supplement,236,10,2360,West,Clinic
+8/2/2025,Paracetamol,Tablet,183,5,915,East,Retail
+11/25/2025,Cetirizine,Allergy,46,6,276,East,Hospital
+1/26/2025,Paracetamol,Tablet,175,5,875,South,Hospital
+12/11/2025,Azithromycin,Antibiotic,240,25,6000,South,Hospital
+5/10/2025,Ibuprofen,Pain Relief,39,8,312,South,Retail
+11/12/2025,Ibuprofen,Pain Relief,98,8,784,North,Clinic
+7/25/2025,Ibuprofen,Pain Relief,170,8,1360,East,Clinic
+6/6/2025,Aspirin,Tablet,152,7,1064,North,Clinic
+12/10/2025,Insulin,Diabetes,27,50,1350,South,Clinic
+3/17/2025,Aspirin,Tablet,120,7,840,West,Clinic
+10/6/2025,Cetirizine,Allergy,38,6,228,North,Hospital
+2/6/2025,Cetirizine,Allergy,21,6,126,South,Clinic
+5/27/2025,Vitamin C,Supplement,107,10,1070,North,Clinic
+8/24/2025,Vitamin C,Supplement,201,10,2010,East,Hospital
+8/5/2025,Aspirin,Tablet,95,7,665,West,Hospital
+10/12/2025,Amoxicillin,Antibiotic,29,20,580,East,Hospital
+7/25/2025,Cetirizine,Allergy,23,6,138,East,Retail
+12/14/2025,Cetirizine,Allergy,35,6,210,South,Clinic
+4/14/2025,Azithromycin,Antibiotic,24,25,600,South,Clinic
+9/17/2025,Amoxicillin,Antibiotic,147,20,2940,North,Hospital
+7/6/2025,Insulin,Diabetes,245,50,12250,West,Clinic
+12/7/2025,Vitamin C,Supplement,18,10,180,South,Clinic
+8/12/2025,Amoxicillin,Antibiotic,200,20,4000,North,Clinic
+10/27/2025,Amoxicillin,Antibiotic,125,20,2500,North,Retail
+7/12/2025,Paracetamol,Tablet,250,5,1250,North,Retail
+2/20/2025,Vitamin C,Supplement,47,10,470,South,Clinic
+9/28/2025,Amoxicillin,Antibiotic,127,20,2540,South,Clinic
+8/20/2025,Amoxicillin,Antibiotic,41,20,820,North,Clinic
+5/28/2025,Metformin,Diabetes,202,15,3030,South,Hospital
+6/15/2025,Aspirin,Tablet,109,7,763,West,Retail
+11/16/2025,Aspirin,Tablet,143,7,1001,North,Retail
+10/8/2025,Vitamin C,Supplement,230,10,2300,East,Retail
+3/9/2025,Ibuprofen,Pain Relief,49,8,392,South,Clinic
+1/8/2025,Ibuprofen,Pain Relief,148,8,1184,South,Clinic
+10/18/2025,Vitamin C,Supplement,230,10,2300,North,Hospital
+7/16/2025,Ibuprofen,Pain Relief,231,8,1848,West,Hospital
+9/29/2025,Vitamin C,Supplement,102,10,1020,East,Clinic
+10/19/2025,Insulin,Diabetes,71,50,3550,West,Clinic
+9/5/2025,Cetirizine,Allergy,141,6,846,North,Retail
+10/30/2025,Aspirin,Tablet,215,7,1505,East,Clinic
+5/11/2025,Azithromycin,Antibiotic,179,25,4475,South,Retail
+11/4/2025,Aspirin,Tablet,171,7,1197,West,Hospital
+5/15/2025,Azithromycin,Antibiotic,114,25,2850,West,Clinic
+7/26/2025,Insulin,Diabetes,105,50,5250,West,Clinic
+1/27/2025,Ibuprofen,Pain Relief,195,8,1560,South,Retail
+12/15/2025,Aspirin,Tablet,220,7,1540,South,Retail
+5/1/2025,Paracetamol,Tablet,161,5,805,East,Hospital
+11/19/2025,Metformin,Diabetes,106,15,1590,West,Retail
+12/8/2025,Insulin,Diabetes,119,50,5950,South,Clinic
+11/27/2025,Azithromycin,Antibiotic,91,25,2275,North,Clinic
+4/6/2025,Insulin,Diabetes,161,50,8050,North,Retail
+11/24/2025,Ibuprofen,Pain Relief,183,8,1464,West,Retail
+6/17/2025,Amoxicillin,Antibiotic,129,20,2580,South,Clinic
+1/13/2025,Vitamin C,Supplement,80,10,800,East,Hospital
+7/28/2025,Omeprazole,Gastro,54,12,648,West,Retail
+11/26/2025,Cetirizine,Allergy,235,6,1410,South,Hospital
+3/19/2025,Metformin,Diabetes,243,15,3645,West,Retail
+11/29/2025,Azithromycin,Antibiotic,122,25,3050,West,Hospital
+8/19/2025,Vitamin C,Supplement,130,10,1300,East,Clinic
+3/11/2025,Ibuprofen,Pain Relief,139,8,1112,East,Hospital
+6/14/2025,Ibuprofen,Pain Relief,93,8,744,South,Hospital
+7/9/2025,Metformin,Diabetes,123,15,1845,East,Clinic
+9/19/2025,Amoxicillin,Antibiotic,197,20,3940,North,Retail
+2/4/2025,Azithromycin,Antibiotic,206,25,5150,North,Clinic
+9/28/2025,Metformin,Diabetes,201,15,3015,North,Retail
+5/5/2025,Azithromycin,Antibiotic,17,25,425,West,Hospital
+1/8/2025,Azithromycin,Antibiotic,206,25,5150,South,Clinic
+7/26/2025,Amoxicillin,Antibiotic,184,20,3680,East,Hospital
+12/25/2025,Ibuprofen,Pain Relief,138,8,1104,East,Hospital
+12/12/2025,Omeprazole,Gastro,73,12,876,South,Hospital
+9/26/2025,Vitamin C,Supplement,180,10,1800,East,Retail
+5/26/2025,Azithromycin,Antibiotic,146,25,3650,East,Clinic
+6/13/2025,Ibuprofen,Pain Relief,93,8,744,North,Hospital
+5/26/2025,Amoxicillin,Antibiotic,177,20,3540,South,Hospital
+1/29/2025,Cetirizine,Allergy,179,6,1074,West,Clinic
+1/3/2025,Metformin,Diabetes,211,15,3165,East,Clinic
+3/20/2025,Vitamin C,Supplement,206,10,2060,West,Clinic
+8/2/2025,Vitamin C,Supplement,28,10,280,East,Clinic
+7/2/2025,Paracetamol,Tablet,48,5,240,East,Hospital
+8/26/2025,Vitamin C,Supplement,202,10,2020,South,Hospital
+8/25/2025,Ibuprofen,Pain Relief,215,8,1720,East,Hospital
+12/30/2025,Aspirin,Tablet,230,7,1610,West,Hospital
+1/5/2025,Cetirizine,Allergy,249,6,1494,West,Clinic
+9/2/2025,Metformin,Diabetes,117,15,1755,South,Hospital
+12/30/2025,Metformin,Diabetes,155,15,2325,West,Hospital
+5/8/2025,Paracetamol,Tablet,241,5,1205,West,Hospital
+10/16/2025,Vitamin C,Supplement,202,10,2020,North,Hospital
+6/25/2025,Vitamin C,Supplement,25,10,250,South,Hospital
+4/9/2025,Azithromycin,Antibiotic,239,25,5975,North,Clinic
+12/11/2025,Amoxicillin,Antibiotic,110,20,2200,West,Hospital
+1/23/2025,Aspirin,Tablet,27,7,189,East,Clinic
+9/19/2025,Aspirin,Tablet,242,7,1694,North,Hospital
+12/23/2025,Amoxicillin,Antibiotic,117,20,2340,South,Hospital
+7/15/2025,Cetirizine,Allergy,62,6,372,North,Clinic
+2/19/2025,Aspirin,Tablet,104,7,728,East,Hospital
+2/2/2025,Azithromycin,Antibiotic,95,25,2375,West,Hospital
+12/31/2025,Azithromycin,Antibiotic,157,25,3925,South,Retail
+12/12/2025,Azithromycin,Antibiotic,11,25,275,West,Hospital
+10/13/2025,Vitamin C,Supplement,153,10,1530,West,Hospital
+3/26/2025,Aspirin,Tablet,191,7,1337,North,Clinic
+11/1/2025,Ibuprofen,Pain Relief,98,8,784,South,Hospital
+12/1/2025,Amoxicillin,Antibiotic,48,20,960,South,Clinic
+10/28/2025,Insulin,Diabetes,142,50,7100,North,Clinic
+3/9/2025,Amoxicillin,Antibiotic,124,20,2480,North,Hospital
+6/2/2025,Cetirizine,Allergy,25,6,150,East,Hospital
+7/3/2025,Ibuprofen,Pain Relief,79,8,632,North,Retail
+4/9/2025,Vitamin C,Supplement,169,10,1690,East,Hospital
+6/26/2025,Cetirizine,Allergy,122,6,732,South,Retail
+9/13/2025,Vitamin C,Supplement,23,10,230,North,Clinic
+6/13/2025,Azithromycin,Antibiotic,71,25,1775,West,Clinic
+1/6/2025,Azithromycin,Antibiotic,37,25,925,South,Retail
+3/6/2025,Omeprazole,Gastro,129,12,1548,East,Clinic
+5/17/2025,Insulin,Diabetes,212,50,10600,West,Hospital
+9/20/2025,Paracetamol,Tablet,169,5,845,East,Retail
+7/16/2025,Amoxicillin,Antibiotic,124,20,2480,North,Clinic
+8/30/2025,Aspirin,Tablet,167,7,1169,South,Hospital
+1/25/2025,Omeprazole,Gastro,240,12,2880,West,Retail
+4/14/2025,Aspirin,Tablet,107,7,749,South,Clinic
+2/5/2025,Aspirin,Tablet,102,7,714,West,Clinic
+9/15/2025,Aspirin,Tablet,237,7,1659,West,Retail
+5/24/2025,Omeprazole,Gastro,62,12,744,West,Hospital
+1/9/2025,Amoxicillin,Antibiotic,39,20,780,South,Retail
+11/8/2025,Amoxicillin,Antibiotic,184,20,3680,North,Clinic
+4/8/2025,Cetirizine,Allergy,187,6,1122,South,Clinic
+11/8/2025,Metformin,Diabetes,181,15,2715,South,Clinic
+6/17/2025,Vitamin C,Supplement,38,10,380,West,Clinic
+6/2/2025,Paracetamol,Tablet,27,5,135,East,Hospital
+11/20/2025,Azithromycin,Antibiotic,203,25,5075,North,Retail
+1/9/2025,Vitamin C,Supplement,191,10,1910,East,Retail
+10/28/2025,Paracetamol,Tablet,99,5,495,West,Clinic
+8/22/2025,Amoxicillin,Antibiotic,34,20,680,South,Hospital
+8/16/2025,Paracetamol,Tablet,111,5,555,East,Hospital
+12/8/2025,Azithromycin,Antibiotic,138,25,3450,West,Clinic
+12/23/2025,Aspirin,Tablet,57,7,399,East,Retail
+5/16/2025,Ibuprofen,Pain Relief,191,8,1528,West,Clinic
+4/27/2025,Paracetamol,Tablet,52,5,260,North,Retail
+1/29/2025,Azithromycin,Antibiotic,65,25,1625,West,Retail
+7/13/2025,Vitamin C,Supplement,192,10,1920,West,Clinic
+5/7/2025,Omeprazole,Gastro,102,12,1224,North,Clinic
+8/24/2025,Azithromycin,Antibiotic,76,25,1900,West,Retail
+12/13/2025,Insulin,Diabetes,236,50,11800,North,Clinic
+11/27/2025,Vitamin C,Supplement,74,10,740,West,Clinic
+8/7/2025,Cetirizine,Allergy,124,6,744,North,Retail
+1/15/2025,Paracetamol,Tablet,232,5,1160,West,Clinic
+11/26/2025,Vitamin C,Supplement,223,10,2230,East,Hospital
+4/8/2025,Cetirizine,Allergy,238,6,1428,West,Hospital
+6/2/2025,Paracetamol,Tablet,157,5,785,West,Clinic
+7/1/2025,Vitamin C,Supplement,211,10,2110,South,Retail
+12/11/2025,Ibuprofen,Pain Relief,184,8,1472,South,Clinic
+2/16/2025,Cetirizine,Allergy,196,6,1176,East,Retail
+11/14/2025,Amoxicillin,Antibiotic,162,20,3240,East,Clinic
+10/20/2025,Omeprazole,Gastro,171,12,2052,South,Retail
+1/30/2025,Omeprazole,Gastro,141,12,1692,West,Retail
+3/19/2025,Paracetamol,Tablet,24,5,120,West,Hospital
+12/8/2025,Vitamin C,Supplement,135,10,1350,West,Hospital
+5/14/2025,Azithromycin,Antibiotic,154,25,3850,North,Retail
+2/15/2025,Aspirin,Tablet,197,7,1379,South,Clinic
+7/10/2025,Amoxicillin,Antibiotic,237,20,4740,East,Hospital
+5/17/2025,Azithromycin,Antibiotic,173,25,4325,East,Clinic
+10/14/2025,Metformin,Diabetes,238,15,3570,South,Hospital
+4/4/2025,Metformin,Diabetes,64,15,960,West,Clinic
+1/4/2025,Omeprazole,Gastro,203,12,2436,South,Retail
+9/10/2025,Paracetamol,Tablet,106,5,530,South,Hospital
+1/4/2025,Cetirizine,Allergy,187,6,1122,South,Hospital
+7/2/2025,Amoxicillin,Antibiotic,159,20,3180,East,Clinic
+12/24/2025,Cetirizine,Allergy,48,6,288,North,Retail
+5/25/2025,Amoxicillin,Antibiotic,58,20,1160,South,Hospital
+3/16/2025,Insulin,Diabetes,129,50,6450,West,Clinic
+6/11/2025,Metformin,Diabetes,19,15,285,North,Retail
+5/8/2025,Azithromycin,Antibiotic,175,25,4375,North,Clinic
+11/24/2025,Vitamin C,Supplement,156,10,1560,South,Retail
+3/15/2025,Vitamin C,Supplement,91,10,910,North,Hospital
+1/17/2025,Metformin,Diabetes,197,15,2955,South,Retail
+5/26/2025,Amoxicillin,Antibiotic,73,20,1460,East,Hospital
+4/6/2025,Aspirin,Tablet,195,7,1365,East,Hospital
+4/9/2025,Amoxicillin,Antibiotic,229,20,4580,West,Hospital
+6/9/2025,Ibuprofen,Pain Relief,232,8,1856,East,Retail
+3/1/2025,Paracetamol,Tablet,235,5,1175,West,Retail
+7/12/2025,Amoxicillin,Antibiotic,153,20,3060,East,Hospital
+4/4/2025,Cetirizine,Allergy,229,6,1374,North,Clinic
+12/11/2025,Amoxicillin,Antibiotic,195,20,3900,North,Clinic
+1/2/2025,Aspirin,Tablet,139,7,973,West,Clinic
+10/22/2025,Cetirizine,Allergy,247,6,1482,East,Hospital
+11/9/2025,Insulin,Diabetes,158,50,7900,North,Clinic
+3/21/2025,Cetirizine,Allergy,89,6,534,South,Clinic
+9/19/2025,Ibuprofen,Pain Relief,102,8,816,East,Hospital
+6/18/2025,Insulin,Diabetes,48,50,2400,North,Retail
+5/1/2025,Paracetamol,Tablet,219,5,1095,West,Retail
+1/5/2025,Omeprazole,Gastro,184,12,2208,West,Hospital
+11/1/2025,Omeprazole,Gastro,66,12,792,West,Hospital
+11/14/2025,Cetirizine,Allergy,184,6,1104,South,Retail
+1/2/2025,Insulin,Diabetes,111,50,5550,East,Clinic
+6/17/2025,Metformin,Diabetes,46,15,690,West,Hospital
+7/14/2025,Metformin,Diabetes,62,15,930,South,Hospital
+8/27/2025,Metformin,Diabetes,99,15,1485,North,Hospital
+9/19/2025,Insulin,Diabetes,40,50,2000,South,Clinic
+8/3/2025,Paracetamol,Tablet,138,5,690,North,Retail
+11/2/2025,Ibuprofen,Pain Relief,15,8,120,West,Clinic
+6/6/2025,Paracetamol,Tablet,186,5,930,North,Retail
+7/10/2025,Amoxicillin,Antibiotic,44,20,880,North,Hospital
+7/8/2025,Azithromycin,Antibiotic,97,25,2425,North,Retail
+8/9/2025,Vitamin C,Supplement,147,10,1470,East,Retail
+10/9/2025,Omeprazole,Gastro,15,12,180,South,Retail
+6/3/2025,Cetirizine,Allergy,38,6,228,West,Clinic
+9/23/2025,Paracetamol,Tablet,226,5,1130,North,Clinic
+7/18/2025,Vitamin C,Supplement,56,10,560,South,Hospital
+1/24/2025,Paracetamol,Tablet,82,5,410,South,Clinic
+12/12/2025,Metformin,Diabetes,210,15,3150,West,Clinic
+11/27/2025,Paracetamol,Tablet,215,5,1075,West,Hospital
+11/23/2025,Cetirizine,Allergy,23,6,138,West,Retail
+8/8/2025,Vitamin C,Supplement,37,10,370,North,Clinic
+4/22/2025,Paracetamol,Tablet,132,5,660,West,Retail
+1/28/2025,Azithromycin,Antibiotic,240,25,6000,East,Clinic
+7/14/2025,Cetirizine,Allergy,88,6,528,West,Hospital
+2/23/2025,Cetirizine,Allergy,31,6,186,North,Hospital
+8/17/2025,Vitamin C,Supplement,114,10,1140,West,Clinic
+12/13/2025,Cetirizine,Allergy,246,6,1476,North,Hospital
+2/23/2025,Aspirin,Tablet,49,7,343,North,Hospital
+3/28/2025,Metformin,Diabetes,219,15,3285,East,Retail
+2/17/2025,Azithromycin,Antibiotic,227,25,5675,West,Hospital
+3/15/2025,Ibuprofen,Pain Relief,87,8,696,South,Hospital
+4/12/2025,Cetirizine,Allergy,205,6,1230,East,Retail
+1/12/2025,Omeprazole,Gastro,100,12,1200,North,Clinic
+4/14/2025,Amoxicillin,Antibiotic,151,20,3020,South,Clinic
+9/27/2025,Paracetamol,Tablet,19,5,95,South,Clinic
+6/2/2025,Azithromycin,Antibiotic,222,25,5550,North,Clinic
+5/10/2025,Metformin,Diabetes,41,15,615,East,Retail
+12/30/2025,Cetirizine,Allergy,175,6,1050,South,Retail
+5/21/2025,Paracetamol,Tablet,100,5,500,East,Clinic
+6/4/2025,Azithromycin,Antibiotic,67,25,1675,North,Clinic
+7/15/2025,Insulin,Diabetes,122,50,6100,West,Retail
+3/12/2025,Vitamin C,Supplement,106,10,1060,South,Clinic
+12/5/2025,Azithromycin,Antibiotic,137,25,3425,South,Clinic
+3/8/2025,Paracetamol,Tablet,237,5,1185,East,Clinic
+3/15/2025,Paracetamol,Tablet,86,5,430,North,Clinic
+5/11/2025,Paracetamol,Tablet,77,5,385,West,Hospital
+10/25/2025,Vitamin C,Supplement,65,10,650,North,Retail
+3/20/2025,Insulin,Diabetes,200,50,10000,West,Retail
+2/13/2025,Aspirin,Tablet,195,7,1365,West,Retail
+7/16/2025,Ibuprofen,Pain Relief,86,8,688,North,Clinic
+6/17/2025,Cetirizine,Allergy,35,6,210,South,Clinic
+12/27/2025,Vitamin C,Supplement,226,10,2260,North,Clinic
+4/11/2025,Omeprazole,Gastro,145,12,1740,East,Retail
+12/15/2025,Metformin,Diabetes,173,15,2595,East,Clinic
+3/23/2025,Vitamin C,Supplement,161,10,1610,West,Hospital
+9/27/2025,Azithromycin,Antibiotic,105,25,2625,East,Clinic
+9/2/2025,Ibuprofen,Pain Relief,216,8,1728,South,Retail
+4/15/2025,Vitamin C,Supplement,179,10,1790,North,Clinic
+2/5/2025,Amoxicillin,Antibiotic,158,20,3160,West,Retail
+1/18/2025,Insulin,Diabetes,185,50,9250,East,Clinic
+8/19/2025,Aspirin,Tablet,102,7,714,East,Retail
+1/25/2025,Vitamin C,Supplement,182,10,1820,North,Hospital
+4/16/2025,Cetirizine,Allergy,246,6,1476,West,Retail
+3/8/2025,Vitamin C,Supplement,63,10,630,South,Hospital
+7/24/2025,Ibuprofen,Pain Relief,211,8,1688,North,Hospital
+2/1/2025,Metformin,Diabetes,194,15,2910,South,Retail
+4/21/2025,Omeprazole,Gastro,24,12,288,East,Hospital
+2/8/2025,Amoxicillin,Antibiotic,161,20,3220,South,Retail
+9/29/2025,Aspirin,Tablet,68,7,476,South,Clinic
+8/4/2025,Cetirizine,Allergy,60,6,360,North,Hospital
+5/12/2025,Metformin,Diabetes,96,15,1440,North,Retail
+4/29/2025,Ibuprofen,Pain Relief,32,8,256,West,Hospital
+7/12/2025,Vitamin C,Supplement,83,10,830,North,Retail
+4/29/2025,Ibuprofen,Pain Relief,233,8,1864,North,Retail
+3/7/2025,Insulin,Diabetes,170,50,8500,North,Hospital
+12/12/2025,Azithromycin,Antibiotic,205,25,5125,West,Retail
+5/16/2025,Insulin,Diabetes,142,50,7100,South,Retail
+7/22/2025,Vitamin C,Supplement,14,10,140,North,Hospital
+4/16/2025,Amoxicillin,Antibiotic,223,20,4460,East,Retail
+3/27/2025,Amoxicillin,Antibiotic,250,20,5000,East,Hospital
+12/7/2025,Amoxicillin,Antibiotic,52,20,1040,West,Hospital
+1/3/2025,Amoxicillin,Antibiotic,29,20,580,West,Clinic
+12/29/2025,Cetirizine,Allergy,119,6,714,West,Clinic
+10/23/2025,Vitamin C,Supplement,74,10,740,South,Retail
+3/4/2025,Metformin,Diabetes,28,15,420,North,Hospital
+4/10/2025,Paracetamol,Tablet,49,5,245,West,Hospital
+4/12/2025,Metformin,Diabetes,167,15,2505,East,Clinic
+3/26/2025,Aspirin,Tablet,13,7,91,South,Retail
+8/17/2025,Aspirin,Tablet,28,7,196,North,Hospital
+6/24/2025,Ibuprofen,Pain Relief,125,8,1000,North,Clinic
+1/26/2025,Cetirizine,Allergy,153,6,918,South,Retail
+9/17/2025,Insulin,Diabetes,85,50,4250,South,Retail
+6/15/2025,Azithromycin,Antibiotic,87,25,2175,East,Clinic
+12/1/2025,Vitamin C,Supplement,97,10,970,West,Clinic
+3/8/2025,Metformin,Diabetes,132,15,1980,East,Retail
+12/21/2025,Insulin,Diabetes,69,50,3450,West,Clinic
+2/24/2025,Azithromycin,Antibiotic,114,25,2850,West,Retail
+12/27/2025,Amoxicillin,Antibiotic,116,20,2320,North,Clinic
+12/30/2025,Cetirizine,Allergy,221,6,1326,North,Retail
+2/19/2025,Metformin,Diabetes,176,15,2640,South,Retail
+7/16/2025,Ibuprofen,Pain Relief,126,8,1008,East,Retail
+1/15/2025,Omeprazole,Gastro,122,12,1464,West,Retail
+12/14/2025,Ibuprofen,Pain Relief,106,8,848,East,Hospital
+12/28/2025,Amoxicillin,Antibiotic,75,20,1500,South,Retail
+3/16/2025,Azithromycin,Antibiotic,249,25,6225,East,Clinic
+5/11/2025,Aspirin,Tablet,247,7,1729,South,Hospital
+10/22/2025,Cetirizine,Allergy,215,6,1290,North,Retail
+1/2/2025,Aspirin,Tablet,65,7,455,West,Retail
+1/24/2025,Aspirin,Tablet,17,7,119,North,Retail
+12/21/2025,Azithromycin,Antibiotic,139,25,3475,West,Hospital
+7/18/2025,Paracetamol,Tablet,132,5,660,West,Hospital
+1/27/2025,Paracetamol,Tablet,249,5,1245,North,Clinic
+9/10/2025,Omeprazole,Gastro,114,12,1368,East,Retail
+7/15/2025,Metformin,Diabetes,169,15,2535,West,Hospital
+6/26/2025,Ibuprofen,Pain Relief,10,8,80,North,Clinic
+9/8/2025,Azithromycin,Antibiotic,42,25,1050,North,Clinic
+1/16/2025,Azithromycin,Antibiotic,219,25,5475,North,Hospital
+5/20/2025,Ibuprofen,Pain Relief,120,8,960,North,Hospital
+9/25/2025,Amoxicillin,Antibiotic,82,20,1640,South,Retail
+7/29/2025,Vitamin C,Supplement,201,10,2010,West,Retail
+11/28/2025,Amoxicillin,Antibiotic,127,20,2540,South,Hospital
+9/3/2025,Cetirizine,Allergy,197,6,1182,South,Clinic
+12/9/2025,Omeprazole,Gastro,204,12,2448,East,Retail
+10/2/2025,Cetirizine,Allergy,80,6,480,South,Hospital
+4/24/2025,Insulin,Diabetes,133,50,6650,East,Clinic
+4/21/2025,Paracetamol,Tablet,121,5,605,West,Retail
+4/15/2025,Insulin,Diabetes,174,50,8700,West,Hospital
+2/17/2025,Amoxicillin,Antibiotic,183,20,3660,South,Retail
+4/23/2025,Azithromycin,Antibiotic,72,25,1800,North,Retail
+4/19/2025,Azithromycin,Antibiotic,168,25,4200,East,Clinic
+7/21/2025,Insulin,Diabetes,176,50,8800,East,Retail
+10/15/2025,Insulin,Diabetes,61,50,3050,South,Retail
+5/4/2025,Azithromycin,Antibiotic,220,25,5500,North,Hospital
+10/10/2025,Azithromycin,Antibiotic,63,25,1575,North,Hospital
+8/15/2025,Omeprazole,Gastro,92,12,1104,East,Hospital
+8/4/2025,Metformin,Diabetes,115,15,1725,North,Hospital
+10/4/2025,Insulin,Diabetes,92,50,4600,South,Retail
+10/27/2025,Insulin,Diabetes,30,50,1500,South,Clinic
+10/20/2025,Vitamin C,Supplement,151,10,1510,East,Retail
+2/19/2025,Insulin,Diabetes,138,50,6900,East,Hospital
+6/25/2025,Aspirin,Tablet,119,7,833,North,Retail
+4/19/2025,Amoxicillin,Antibiotic,190,20,3800,West,Hospital
+12/1/2025,Amoxicillin,Antibiotic,72,20,1440,West,Hospital
+9/24/2025,Amoxicillin,Antibiotic,11,20,220,East,Clinic
+2/26/2025,Amoxicillin,Antibiotic,220,20,4400,South,Hospital
+2/10/2025,Vitamin C,Supplement,215,10,2150,West,Clinic
+7/14/2025,Amoxicillin,Antibiotic,96,20,1920,South,Clinic
+12/1/2025,Omeprazole,Gastro,220,12,2640,North,Clinic
+4/24/2025,Azithromycin,Antibiotic,45,25,1125,North,Hospital
+12/13/2025,Aspirin,Tablet,13,7,91,North,Hospital
+1/29/2025,Metformin,Diabetes,45,15,675,East,Clinic
+9/20/2025,Amoxicillin,Antibiotic,216,20,4320,North,Retail
+12/11/2025,Amoxicillin,Antibiotic,10,20,200,West,Retail
+10/6/2025,Azithromycin,Antibiotic,238,25,5950,East,Retail
+12/7/2025,Amoxicillin,Antibiotic,130,20,2600,South,Retail
+4/28/2025,Amoxicillin,Antibiotic,111,20,2220,North,Hospital
+7/22/2025,Aspirin,Tablet,218,7,1526,South,Hospital
+6/25/2025,Insulin,Diabetes,230,50,11500,West,Retail
+8/17/2025,Insulin,Diabetes,80,50,4000,North,Retail
+8/23/2025,Insulin,Diabetes,127,50,6350,East,Hospital
+12/2/2025,Aspirin,Tablet,17,7,119,East,Hospital
+8/27/2025,Amoxicillin,Antibiotic,122,20,2440,East,Clinic
+9/28/2025,Vitamin C,Supplement,250,10,2500,East,Retail
+12/30/2025,Amoxicillin,Antibiotic,165,20,3300,West,Retail
+9/26/2025,Ibuprofen,Pain Relief,138,8,1104,North,Clinic
+1/18/2025,Cetirizine,Allergy,115,6,690,East,Clinic
+6/16/2025,Amoxicillin,Antibiotic,23,20,460,North,Hospital
+2/6/2025,Metformin,Diabetes,232,15,3480,East,Retail
+3/1/2025,Vitamin C,Supplement,135,10,1350,North,Clinic
+2/14/2025,Cetirizine,Allergy,199,6,1194,South,Clinic
+2/12/2025,Metformin,Diabetes,224,15,3360,South,Clinic
+8/30/2025,Metformin,Diabetes,166,15,2490,South,Hospital
+7/27/2025,Aspirin,Tablet,17,7,119,South,Clinic
+2/20/2025,Vitamin C,Supplement,16,10,160,South,Retail
+2/10/2025,Aspirin,Tablet,110,7,770,North,Hospital
+3/18/2025,Paracetamol,Tablet,237,5,1185,South,Retail
+4/9/2025,Vitamin C,Supplement,203,10,2030,North,Retail
+4/12/2025,Omeprazole,Gastro,154,12,1848,East,Clinic
+12/23/2025,Azithromycin,Antibiotic,37,25,925,North,Hospital
+2/22/2025,Amoxicillin,Antibiotic,97,20,1940,North,Clinic
+9/18/2025,Paracetamol,Tablet,67,5,335,West,Clinic
+9/12/2025,Metformin,Diabetes,23,15,345,South,Clinic
+4/7/2025,Azithromycin,Antibiotic,95,25,2375,East,Hospital
+10/20/2025,Aspirin,Tablet,196,7,1372,West,Hospital
+2/28/2025,Paracetamol,Tablet,207,5,1035,West,Hospital
+10/10/2025,Ibuprofen,Pain Relief,63,8,504,North,Retail
+6/4/2025,Metformin,Diabetes,50,15,750,South,Hospital
+11/9/2025,Azithromycin,Antibiotic,131,25,3275,East,Clinic
+11/13/2025,Vitamin C,Supplement,155,10,1550,West,Clinic
+4/7/2025,Metformin,Diabetes,180,15,2700,East,Retail
+11/14/2025,Ibuprofen,Pain Relief,210,8,1680,East,Hospital
+2/15/2025,Vitamin C,Supplement,76,10,760,North,Clinic
+4/25/2025,Insulin,Diabetes,34,50,1700,South,Retail
+2/6/2025,Paracetamol,Tablet,20,5,100,North,Retail
+10/15/2025,Ibuprofen,Pain Relief,234,8,1872,East,Retail
+7/25/2025,Aspirin,Tablet,167,7,1169,West,Retail
+11/20/2025,Metformin,Diabetes,240,15,3600,North,Clinic
+12/2/2025,Cetirizine,Allergy,76,6,456,South,Retail
+1/24/2025,Metformin,Diabetes,117,15,1755,North,Hospital
+10/14/2025,Ibuprofen,Pain Relief,97,8,776,South,Clinic
+7/19/2025,Amoxicillin,Antibiotic,59,20,1180,South,Hospital
+8/30/2025,Ibuprofen,Pain Relief,140,8,1120,West,Hospital
+9/12/2025,Aspirin,Tablet,72,7,504,West,Clinic
+8/16/2025,Cetirizine,Allergy,87,6,522,West,Retail
+5/17/2025,Paracetamol,Tablet,90,5,450,South,Clinic
+2/9/2025,Omeprazole,Gastro,50,12,600,West,Hospital
+8/18/2025,Metformin,Diabetes,149,15,2235,East,Retail
+6/27/2025,Insulin,Diabetes,131,50,6550,West,Retail
+3/1/2025,Azithromycin,Antibiotic,114,25,2850,North,Hospital
+7/19/2025,Cetirizine,Allergy,59,6,354,South,Clinic
+4/4/2025,Cetirizine,Allergy,232,6,1392,South,Clinic
+9/12/2025,Aspirin,Tablet,88,7,616,West,Hospital
+9/21/2025,Insulin,Diabetes,88,50,4400,East,Hospital
+4/25/2025,Azithromycin,Antibiotic,167,25,4175,West,Clinic
+7/1/2025,Vitamin C,Supplement,25,10,250,West,Retail
+3/13/2025,Insulin,Diabetes,70,50,3500,South,Retail
+9/4/2025,Metformin,Diabetes,109,15,1635,North,Retail
+11/9/2025,Amoxicillin,Antibiotic,11,20,220,South,Hospital
+9/2/2025,Paracetamol,Tablet,238,5,1190,East,Clinic
+7/4/2025,Aspirin,Tablet,105,7,735,West,Retail
+6/5/2025,Metformin,Diabetes,59,15,885,South,Retail
+11/8/2025,Insulin,Diabetes,197,50,9850,West,Retail
+3/14/2025,Paracetamol,Tablet,24,5,120,North,Clinic
+12/7/2025,Vitamin C,Supplement,102,10,1020,South,Retail
+7/4/2025,Cetirizine,Allergy,115,6,690,South,Retail
+11/14/2025,Aspirin,Tablet,92,7,644,North,Hospital
+12/11/2025,Azithromycin,Antibiotic,18,25,450,East,Hospital
+6/11/2025,Insulin,Diabetes,105,50,5250,West,Retail
+12/26/2025,Azithromycin,Antibiotic,208,25,5200,West,Retail
+12/18/2025,Cetirizine,Allergy,245,6,1470,North,Hospital
+4/5/2025,Ibuprofen,Pain Relief,84,8,672,East,Hospital
+7/14/2025,Metformin,Diabetes,80,15,1200,East,Retail
+9/26/2025,Amoxicillin,Antibiotic,90,20,1800,North,Retail
+1/31/2025,Insulin,Diabetes,19,50,950,South,Clinic
+6/24/2025,Ibuprofen,Pain Relief,91,8,728,West,Hospital
+6/29/2025,Azithromycin,Antibiotic,171,25,4275,South,Retail
+8/18/2025,Insulin,Diabetes,72,50,3600,East,Clinic
+11/21/2025,Insulin,Diabetes,236,50,11800,North,Clinic
+1/24/2025,Amoxicillin,Antibiotic,232,20,4640,North,Clinic
+7/18/2025,Vitamin C,Supplement,173,10,1730,West,Clinic
+2/5/2025,Insulin,Diabetes,140,50,7000,West,Retail
+10/14/2025,Azithromycin,Antibiotic,156,25,3900,East,Retail
+2/21/2025,Omeprazole,Gastro,16,12,192,North,Retail
+1/2/2025,Cetirizine,Allergy,88,6,528,West,Retail
+8/21/2025,Vitamin C,Supplement,35,10,350,East,Clinic
+6/18/2025,Cetirizine,Allergy,229,6,1374,East,Clinic
+10/20/2025,Paracetamol,Tablet,227,5,1135,East,Clinic
+12/13/2025,Omeprazole,Gastro,199,12,2388,South,Hospital
+1/18/2025,Amoxicillin,Antibiotic,98,20,1960,East,Hospital
+7/24/2025,Amoxicillin,Antibiotic,133,20,2660,North,Clinic
+11/12/2025,Insulin,Diabetes,197,50,9850,West,Retail
+7/3/2025,Metformin,Diabetes,248,15,3720,South,Hospital
+11/2/2025,Metformin,Diabetes,14,15,210,East,Clinic
+1/29/2025,Omeprazole,Gastro,181,12,2172,East,Retail
+1/24/2025,Azithromycin,Antibiotic,102,25,2550,South,Hospital
+1/21/2025,Insulin,Diabetes,97,50,4850,West,Retail
+11/16/2025,Ibuprofen,Pain Relief,170,8,1360,East,Clinic
+7/23/2025,Paracetamol,Tablet,212,5,1060,North,Clinic
+9/28/2025,Amoxicillin,Antibiotic,217,20,4340,East,Clinic
+5/19/2025,Aspirin,Tablet,14,7,98,East,Hospital
+9/30/2025,Omeprazole,Gastro,103,12,1236,North,Retail
+7/26/2025,Vitamin C,Supplement,30,10,300,East,Retail
+6/26/2025,Cetirizine,Allergy,62,6,372,West,Retail
+11/18/2025,Ibuprofen,Pain Relief,117,8,936,West,Hospital
+11/5/2025,Amoxicillin,Antibiotic,139,20,2780,West,Hospital
+7/12/2025,Metformin,Diabetes,58,15,870,East,Hospital
+12/5/2025,Cetirizine,Allergy,117,6,702,North,Hospital
+5/13/2025,Vitamin C,Supplement,40,10,400,East,Retail
+5/30/2025,Amoxicillin,Antibiotic,51,20,1020,West,Hospital
+12/9/2025,Vitamin C,Supplement,67,10,670,South,Clinic
+7/5/2025,Paracetamol,Tablet,203,5,1015,East,Retail
+7/2/2025,Vitamin C,Supplement,165,10,1650,East,Clinic
+3/21/2025,Paracetamol,Tablet,140,5,700,South,Hospital
+8/14/2025,Azithromycin,Antibiotic,82,25,2050,North,Clinic
+12/22/2025,Aspirin,Tablet,185,7,1295,East,Clinic
+7/23/2025,Paracetamol,Tablet,237,5,1185,West,Hospital
+3/11/2025,Paracetamol,Tablet,56,5,280,South,Clinic
+6/16/2025,Insulin,Diabetes,133,50,6650,West,Retail
+12/10/2025,Cetirizine,Allergy,69,6,414,South,Hospital
+4/4/2025,Vitamin C,Supplement,185,10,1850,South,Retail
+4/28/2025,Metformin,Diabetes,113,15,1695,South,Clinic
+8/11/2025,Omeprazole,Gastro,158,12,1896,West,Retail
+8/24/2025,Amoxicillin,Antibiotic,86,20,1720,West,Retail
+2/20/2025,Cetirizine,Allergy,173,6,1038,East,Hospital
+1/16/2025,Insulin,Diabetes,168,50,8400,South,Retail
+5/29/2025,Azithromycin,Antibiotic,16,25,400,East,Clinic
+7/17/2025,Insulin,Diabetes,89,50,4450,West,Clinic
+6/7/2025,Vitamin C,Supplement,148,10,1480,West,Hospital
+9/13/2025,Ibuprofen,Pain Relief,55,8,440,North,Retail
+1/18/2025,Vitamin C,Supplement,247,10,2470,East,Clinic
+4/13/2025,Cetirizine,Allergy,229,6,1374,South,Hospital
+4/24/2025,Azithromycin,Antibiotic,65,25,1625,East,Clinic
+9/15/2025,Aspirin,Tablet,195,7,1365,North,Retail
+4/15/2025,Omeprazole,Gastro,119,12,1428,West,Clinic
+11/5/2025,Omeprazole,Gastro,166,12,1992,East,Retail
+5/6/2025,Metformin,Diabetes,14,15,210,East,Retail
+6/30/2025,Azithromycin,Antibiotic,19,25,475,North,Hospital
+9/7/2025,Cetirizine,Allergy,100,6,600,West,Clinic
+9/29/2025,Ibuprofen,Pain Relief,112,8,896,South,Hospital
+1/25/2025,Aspirin,Tablet,134,7,938,South,Hospital
+6/4/2025,Vitamin C,Supplement,46,10,460,South,Clinic
+5/13/2025,Metformin,Diabetes,81,15,1215,West,Retail
+12/17/2025,Ibuprofen,Pain Relief,55,8,440,East,Clinic
+7/8/2025,Aspirin,Tablet,62,7,434,South,Hospital
+8/22/2025,Insulin,Diabetes,152,50,7600,North,Clinic
+3/7/2025,Insulin,Diabetes,100,50,5000,West,Retail
+5/19/2025,Paracetamol,Tablet,212,5,1060,North,Clinic
+6/15/2025,Ibuprofen,Pain Relief,167,8,1336,West,Retail
+11/26/2025,Ibuprofen,Pain Relief,38,8,304,East,Hospital
+9/17/2025,Ibuprofen,Pain Relief,101,8,808,East,Retail
+11/5/2025,Amoxicillin,Antibiotic,166,20,3320,West,Retail
+1/5/2025,Omeprazole,Gastro,163,12,1956,West,Clinic
+10/16/2025,Metformin,Diabetes,41,15,615,North,Hospital
+10/19/2025,Aspirin,Tablet,19,7,133,West,Retail
+1/13/2025,Metformin,Diabetes,162,15,2430,North,Clinic
+3/22/2025,Insulin,Diabetes,111,50,5550,East,Hospital
+2/14/2025,Amoxicillin,Antibiotic,32,20,640,West,Retail
+12/5/2025,Metformin,Diabetes,58,15,870,South,Retail
+10/5/2025,Insulin,Diabetes,156,50,7800,East,Clinic
+4/17/2025,Amoxicillin,Antibiotic,145,20,2900,East,Retail
+1/26/2025,Metformin,Diabetes,93,15,1395,East,Clinic
+7/5/2025,Cetirizine,Allergy,114,6,684,South,Hospital
+3/18/2025,Vitamin C,Supplement,189,10,1890,West,Retail
+3/23/2025,Cetirizine,Allergy,163,6,978,North,Retail
+10/25/2025,Omeprazole,Gastro,64,12,768,West,Retail
+7/10/2025,Cetirizine,Allergy,23,6,138,South,Hospital
+5/4/2025,Ibuprofen,Pain Relief,139,8,1112,East,Hospital
+1/3/2025,Paracetamol,Tablet,228,5,1140,West,Hospital
+12/2/2025,Ibuprofen,Pain Relief,97,8,776,East,Clinic
+2/8/2025,Ibuprofen,Pain Relief,245,8,1960,South,Hospital
+9/29/2025,Ibuprofen,Pain Relief,162,8,1296,South,Hospital
+8/14/2025,Metformin,Diabetes,44,15,660,East,Retail
+3/3/2025,Omeprazole,Gastro,172,12,2064,East,Retail
+8/20/2025,Ibuprofen,Pain Relief,150,8,1200,West,Hospital
+3/6/2025,Vitamin C,Supplement,38,10,380,South,Retail
+11/17/2025,Ibuprofen,Pain Relief,189,8,1512,North,Clinic
+11/14/2025,Vitamin C,Supplement,141,10,1410,West,Retail
+9/18/2025,Insulin,Diabetes,194,50,9700,East,Clinic
+1/26/2025,Aspirin,Tablet,63,7,441,North,Clinic
+7/1/2025,Azithromycin,Antibiotic,72,25,1800,North,Hospital
+6/28/2025,Vitamin C,Supplement,12,10,120,West,Clinic
+7/26/2025,Vitamin C,Supplement,91,10,910,North,Clinic
+10/7/2025,Cetirizine,Allergy,165,6,990,West,Retail
+7/24/2025,Aspirin,Tablet,228,7,1596,North,Hospital
+10/21/2025,Ibuprofen,Pain Relief,183,8,1464,West,Retail
+5/18/2025,Ibuprofen,Pain Relief,212,8,1696,North,Hospital
+2/9/2025,Insulin,Diabetes,31,50,1550,South,Hospital
+8/20/2025,Azithromycin,Antibiotic,200,25,5000,East,Hospital
+8/13/2025,Ibuprofen,Pain Relief,20,8,160,West,Retail
+1/10/2025,Metformin,Diabetes,84,15,1260,East,Hospital
+11/13/2025,Vitamin C,Supplement,112,10,1120,South,Clinic
+8/24/2025,Amoxicillin,Antibiotic,201,20,4020,East,Hospital
+11/18/2025,Amoxicillin,Antibiotic,16,20,320,South,Clinic
+4/14/2025,Insulin,Diabetes,209,50,10450,West,Clinic
+1/6/2025,Ibuprofen,Pain Relief,201,8,1608,North,Hospital
+6/29/2025,Azithromycin,Antibiotic,83,25,2075,North,Clinic
+5/2/2025,Paracetamol,Tablet,156,5,780,South,Retail
+11/9/2025,Aspirin,Tablet,200,7,1400,West,Retail
+3/27/2025,Vitamin C,Supplement,180,10,1800,South,Retail
+11/13/2025,Amoxicillin,Antibiotic,49,20,980,West,Retail
+3/6/2025,Cetirizine,Allergy,236,6,1416,South,Clinic
+3/21/2025,Omeprazole,Gastro,83,12,996,North,Clinic
+1/22/2025,Amoxicillin,Antibiotic,177,20,3540,South,Retail
+6/15/2025,Amoxicillin,Antibiotic,190,20,3800,West,Retail
+5/1/2025,Metformin,Diabetes,82,15,1230,North,Hospital
+4/30/2025,Omeprazole,Gastro,163,12,1956,West,Hospital
+6/3/2025,Vitamin C,Supplement,20,10,200,East,Hospital
+1/16/2025,Metformin,Diabetes,94,15,1410,West,Retail
+6/28/2025,Amoxicillin,Antibiotic,184,20,3680,West,Clinic
+9/4/2025,Vitamin C,Supplement,248,10,2480,East,Hospital
+6/23/2025,Vitamin C,Supplement,241,10,2410,North,Hospital
+4/1/2025,Cetirizine,Allergy,146,6,876,West,Hospital
+1/5/2025,Azithromycin,Antibiotic,148,25,3700,North,Hospital
+11/10/2025,Paracetamol,Tablet,36,5,180,North,Retail
+10/10/2025,Insulin,Diabetes,159,50,7950,North,Hospital
+5/31/2025,Azithromycin,Antibiotic,19,25,475,South,Retail
+3/5/2025,Insulin,Diabetes,79,50,3950,West,Clinic
+3/2/2025,Metformin,Diabetes,125,15,1875,South,Hospital
+2/12/2025,Aspirin,Tablet,108,7,756,South,Retail
+5/10/2025,Vitamin C,Supplement,54,10,540,South,Retail
+3/27/2025,Azithromycin,Antibiotic,222,25,5550,West,Clinic
+7/7/2025,Insulin,Diabetes,14,50,700,West,Retail
+12/26/2025,Metformin,Diabetes,58,15,870,East,Clinic
+11/25/2025,Amoxicillin,Antibiotic,29,20,580,West,Hospital
+2/27/2025,Cetirizine,Allergy,203,6,1218,West,Hospital
+3/25/2025,Cetirizine,Allergy,122,6,732,North,Clinic
+7/7/2025,Vitamin C,Supplement,102,10,1020,South,Clinic
+3/6/2025,Azithromycin,Antibiotic,175,25,4375,West,Retail
+7/14/2025,Paracetamol,Tablet,95,5,475,West,Retail
+9/25/2025,Metformin,Diabetes,212,15,3180,North,Retail
+10/17/2025,Aspirin,Tablet,244,7,1708,South,Hospital
+9/9/2025,Omeprazole,Gastro,49,12,588,East,Clinic
+12/25/2025,Vitamin C,Supplement,17,10,170,East,Retail
+5/3/2025,Paracetamol,Tablet,152,5,760,North,Hospital
+7/8/2025,Vitamin C,Supplement,41,10,410,East,Hospital
+11/15/2025,Vitamin C,Supplement,98,10,980,East,Clinic
+7/21/2025,Insulin,Diabetes,179,50,8950,South,Retail
+7/25/2025,Amoxicillin,Antibiotic,165,20,3300,South,Retail
+9/9/2025,Paracetamol,Tablet,215,5,1075,North,Hospital
+6/7/2025,Omeprazole,Gastro,142,12,1704,South,Retail
+5/18/2025,Azithromycin,Antibiotic,82,25,2050,West,Retail
+5/3/2025,Metformin,Diabetes,175,15,2625,North,Retail
+7/28/2025,Aspirin,Tablet,195,7,1365,North,Retail
+5/11/2025,Vitamin C,Supplement,124,10,1240,West,Clinic
+11/22/2025,Azithromycin,Antibiotic,14,25,350,West,Retail
+5/8/2025,Azithromycin,Antibiotic,233,25,5825,South,Clinic
+6/9/2025,Metformin,Diabetes,69,15,1035,North,Clinic
+3/20/2025,Ibuprofen,Pain Relief,126,8,1008,East,Retail
+8/13/2025,Aspirin,Tablet,182,7,1274,West,Clinic
+11/29/2025,Paracetamol,Tablet,181,5,905,South,Hospital
+6/14/2025,Cetirizine,Allergy,65,6,390,South,Retail
+3/11/2025,Insulin,Diabetes,13,50,650,North,Hospital
+9/19/2025,Amoxicillin,Antibiotic,158,20,3160,North,Clinic
+9/13/2025,Omeprazole,Gastro,30,12,360,North,Retail
+11/5/2025,Metformin,Diabetes,193,15,2895,South,Hospital
+1/28/2025,Paracetamol,Tablet,71,5,355,North,Retail
+6/10/2025,Amoxicillin,Antibiotic,162,20,3240,North,Retail
+11/20/2025,Aspirin,Tablet,206,7,1442,West,Clinic
+1/29/2025,Cetirizine,Allergy,169,6,1014,North,Hospital
+3/8/2025,Aspirin,Tablet,200,7,1400,South,Retail
+10/19/2025,Azithromycin,Antibiotic,47,25,1175,South,Clinic
+9/20/2025,Amoxicillin,Antibiotic,84,20,1680,East,Hospital
+5/2/2025,Insulin,Diabetes,115,50,5750,North,Clinic
+6/7/2025,Azithromycin,Antibiotic,95,25,2375,East,Hospital
+12/22/2025,Amoxicillin,Antibiotic,28,20,560,South,Hospital
+3/30/2025,Omeprazole,Gastro,187,12,2244,South,Retail
+10/11/2025,Cetirizine,Allergy,160,6,960,South,Clinic
+10/5/2025,Amoxicillin,Antibiotic,178,20,3560,South,Clinic
+3/30/2025,Paracetamol,Tablet,92,5,460,West,Retail
+8/31/2025,Paracetamol,Tablet,121,5,605,West,Clinic
+2/25/2025,Metformin,Diabetes,206,15,3090,East,Clinic
+4/5/2025,Amoxicillin,Antibiotic,216,20,4320,South,Retail
+10/14/2025,Omeprazole,Gastro,34,12,408,East,Hospital
+10/10/2025,Cetirizine,Allergy,209,6,1254,West,Clinic
+1/31/2025,Insulin,Diabetes,73,50,3650,East,Clinic
+8/17/2025,Amoxicillin,Antibiotic,179,20,3580,South,Clinic
+4/10/2025,Cetirizine,Allergy,85,6,510,North,Clinic
+3/7/2025,Azithromycin,Antibiotic,43,25,1075,South,Retail
+1/21/2025,Paracetamol,Tablet,75,5,375,East,Hospital
+2/4/2025,Azithromycin,Antibiotic,116,25,2900,North,Retail
+7/6/2025,Omeprazole,Gastro,92,12,1104,North,Hospital
+10/9/2025,Amoxicillin,Antibiotic,103,20,2060,East,Retail
+12/25/2025,Aspirin,Tablet,28,7,196,North,Clinic
+3/8/2025,Insulin,Diabetes,79,50,3950,North,Hospital
+8/26/2025,Metformin,Diabetes,59,15,885,East,Hospital
+6/14/2025,Aspirin,Tablet,99,7,693,East,Hospital
+7/25/2025,Paracetamol,Tablet,147,5,735,East,Hospital
+10/24/2025,Azithromycin,Antibiotic,158,25,3950,West,Clinic
+6/5/2025,Vitamin C,Supplement,166,10,1660,East,Retail
+10/27/2025,Amoxicillin,Antibiotic,50,20,1000,East,Retail
+2/16/2025,Amoxicillin,Antibiotic,135,20,2700,West,Hospital
+5/6/2025,Metformin,Diabetes,147,15,2205,East,Hospital
+11/16/2025,Insulin,Diabetes,231,50,11550,West,Retail
+2/5/2025,Vitamin C,Supplement,187,10,1870,North,Clinic
+10/19/2025,Aspirin,Tablet,57,7,399,East,Clinic
+1/31/2025,Cetirizine,Allergy,20,6,120,North,Clinic
+8/8/2025,Ibuprofen,Pain Relief,169,8,1352,South,Retail
+12/10/2025,Amoxicillin,Antibiotic,210,20,4200,North,Retail
+6/17/2025,Omeprazole,Gastro,80,12,960,East,Hospital
+5/9/2025,Vitamin C,Supplement,20,10,200,North,Retail
+12/24/2025,Azithromycin,Antibiotic,175,25,4375,East,Hospital
+7/25/2025,Vitamin C,Supplement,68,10,680,East,Retail
+3/5/2025,Ibuprofen,Pain Relief,98,8,784,South,Clinic
+10/22/2025,Ibuprofen,Pain Relief,112,8,896,South,Clinic
+4/15/2025,Insulin,Diabetes,157,50,7850,West,Retail
+8/22/2025,Aspirin,Tablet,68,7,476,South,Clinic
+4/25/2025,Vitamin C,Supplement,248,10,2480,South,Clinic
+7/13/2025,Ibuprofen,Pain Relief,23,8,184,East,Hospital
+3/1/2025,Cetirizine,Allergy,137,6,822,South,Clinic
+9/20/2025,Amoxicillin,Antibiotic,131,20,2620,North,Retail
+1/12/2025,Amoxicillin,Antibiotic,124,20,2480,West,Clinic
+3/8/2025,Vitamin C,Supplement,200,10,2000,North,Retail
+6/19/2025,Metformin,Diabetes,49,15,735,South,Clinic
+8/30/2025,Omeprazole,Gastro,127,12,1524,North,Clinic
+6/4/2025,Vitamin C,Supplement,90,10,900,North,Hospital
+10/23/2025,Ibuprofen,Pain Relief,74,8,592,West,Hospital
+9/6/2025,Amoxicillin,Antibiotic,247,20,4940,South,Clinic
+9/18/2025,Vitamin C,Supplement,97,10,970,West,Clinic
+1/30/2025,Cetirizine,Allergy,88,6,528,East,Hospital
+2/27/2025,Omeprazole,Gastro,226,12,2712,North,Hospital
+11/21/2025,Cetirizine,Allergy,48,6,288,South,Hospital
+1/26/2025,Azithromycin,Antibiotic,145,25,3625,North,Clinic
+4/4/2025,Paracetamol,Tablet,12,5,60,West,Hospital
+10/15/2025,Ibuprofen,Pain Relief,52,8,416,East,Clinic
+1/19/2025,Paracetamol,Tablet,67,5,335,East,Clinic
+2/6/2025,Azithromycin,Antibiotic,51,25,1275,West,Clinic
+12/11/2025,Azithromycin,Antibiotic,135,25,3375,North,Retail
+11/28/2025,Ibuprofen,Pain Relief,53,8,424,West,Retail
+12/3/2025,Cetirizine,Allergy,31,6,186,South,Hospital
+2/9/2025,Amoxicillin,Antibiotic,73,20,1460,East,Retail
+6/4/2025,Amoxicillin,Antibiotic,142,20,2840,North,Clinic
+2/8/2025,Aspirin,Tablet,229,7,1603,South,Hospital
+3/6/2025,Vitamin C,Supplement,19,10,190,North,Hospital
+5/30/2025,Omeprazole,Gastro,108,12,1296,East,Clinic
+5/16/2025,Cetirizine,Allergy,111,6,666,West,Hospital
+5/10/2025,Cetirizine,Allergy,85,6,510,East,Retail
+1/25/2025,Insulin,Diabetes,48,50,2400,West,Retail
+6/29/2025,Cetirizine,Allergy,244,6,1464,South,Clinic
+10/3/2025,Aspirin,Tablet,56,7,392,North,Hospital
+2/2/2025,Paracetamol,Tablet,60,5,300,North,Hospital
+5/25/2025,Azithromycin,Antibiotic,142,25,3550,East,Retail
+1/31/2025,Paracetamol,Tablet,227,5,1135,North,Clinic
+6/16/2025,Ibuprofen,Pain Relief,163,8,1304,North,Retail
+10/3/2025,Vitamin C,Supplement,83,10,830,North,Clinic
+7/17/2025,Vitamin C,Supplement,162,10,1620,West,Clinic
+3/19/2025,Insulin,Diabetes,43,50,2150,West,Clinic
+12/29/2025,Azithromycin,Antibiotic,71,25,1775,North,Clinic
+8/7/2025,Metformin,Diabetes,165,15,2475,East,Clinic
+2/19/2025,Cetirizine,Allergy,174,6,1044,West,Clinic
+4/3/2025,Metformin,Diabetes,100,15,1500,South,Hospital
+2/11/2025,Insulin,Diabetes,157,50,7850,East,Hospital
+3/6/2025,Omeprazole,Gastro,104,12,1248,West,Retail
+12/29/2025,Ibuprofen,Pain Relief,136,8,1088,East,Retail
+6/28/2025,Omeprazole,Gastro,123,12,1476,West,Hospital
+5/15/2025,Paracetamol,Tablet,210,5,1050,West,Hospital
+3/11/2025,Amoxicillin,Antibiotic,172,20,3440,East,Retail
+2/7/2025,Paracetamol,Tablet,120,5,600,West,Retail
+8/21/2025,Cetirizine,Allergy,164,6,984,South,Retail
+4/19/2025,Aspirin,Tablet,36,7,252,East,Hospital
+3/9/2025,Metformin,Diabetes,133,15,1995,South,Retail
+1/8/2025,Vitamin C,Supplement,119,10,1190,South,Hospital
+4/13/2025,Insulin,Diabetes,43,50,2150,West,Hospital
+7/17/2025,Amoxicillin,Antibiotic,70,20,1400,South,Retail
+2/25/2025,Aspirin,Tablet,170,7,1190,North,Clinic
+3/17/2025,Insulin,Diabetes,164,50,8200,East,Hospital
+9/11/2025,Amoxicillin,Antibiotic,220,20,4400,East,Clinic
+3/8/2025,Omeprazole,Gastro,88,12,1056,West,Retail
+6/9/2025,Cetirizine,Allergy,26,6,156,West,Hospital
+7/24/2025,Metformin,Diabetes,178,15,2670,North,Hospital
+5/23/2025,Insulin,Diabetes,18,50,900,East,Hospital
+3/3/2025,Omeprazole,Gastro,127,12,1524,South,Hospital
+3/21/2025,Cetirizine,Allergy,116,6,696,East,Hospital
+1/29/2025,Aspirin,Tablet,149,7,1043,South,Hospital
+2/20/2025,Paracetamol,Tablet,53,5,265,West,Hospital
+9/24/2025,Cetirizine,Allergy,153,6,918,North,Clinic
+3/12/2025,Omeprazole,Gastro,215,12,2580,North,Retail
+3/6/2025,Amoxicillin,Antibiotic,36,20,720,North,Retail
+3/13/2025,Metformin,Diabetes,197,15,2955,South,Clinic
+1/21/2025,Aspirin,Tablet,110,7,770,West,Clinic
+1/19/2025,Cetirizine,Allergy,231,6,1386,East,Retail
+3/5/2025,Azithromycin,Antibiotic,167,25,4175,West,Hospital
+1/28/2025,Azithromycin,Antibiotic,115,25,2875,East,Hospital
+11/6/2025,Paracetamol,Tablet,48,5,240,West,Hospital
+8/22/2025,Ibuprofen,Pain Relief,16,8,128,South,Clinic
+9/10/2025,Paracetamol,Tablet,121,5,605,East,Hospital
+8/9/2025,Cetirizine,Allergy,154,6,924,North,Retail
+7/12/2025,Ibuprofen,Pain Relief,128,8,1024,East,Hospital
+4/18/2025,Paracetamol,Tablet,37,5,185,North,Retail
+1/13/2025,Azithromycin,Antibiotic,137,25,3425,East,Retail
+8/4/2025,Omeprazole,Gastro,215,12,2580,South,Clinic
+1/25/2025,Insulin,Diabetes,163,50,8150,West,Clinic
+9/11/2025,Amoxicillin,Antibiotic,103,20,2060,South,Clinic
+8/26/2025,Vitamin C,Supplement,21,10,210,North,Retail
+3/8/2025,Paracetamol,Tablet,101,5,505,West,Clinic
+3/22/2025,Amoxicillin,Antibiotic,246,20,4920,South,Clinic
+11/13/2025,Metformin,Diabetes,59,15,885,South,Hospital
+4/27/2025,Ibuprofen,Pain Relief,11,8,88,West,Hospital
+11/21/2025,Cetirizine,Allergy,212,6,1272,North,Retail
+6/24/2025,Paracetamol,Tablet,213,5,1065,North,Retail
+4/10/2025,Ibuprofen,Pain Relief,112,8,896,East,Retail
